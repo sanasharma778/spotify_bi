@@ -48,7 +48,7 @@ spotify-bi-pipeline/
 
 ## Status
 - [x] Project setup — folder structure, virtual environment, GitHub
-- [x] Data extraction — 15,000+ realistic messy records generated
+- [ ] Data extraction — 15,000+ realistic messy records generated
 - [ ] Transform + clean pipeline
 - [ ] Load into SQLite warehouse
 - [ ] SQL KPI queries
