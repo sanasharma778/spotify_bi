@@ -7,7 +7,7 @@
 An end-to-end Business Intelligence pipeline analysing music streaming user behaviour
 across 15,000+ records and 5 genres. Covers the full user journey funnel from app open
 to premium conversion, with drop-off analysis, KPI reporting, and automated stakeholder
-reports — replicating real-world BIE workflows.
+reports : replicating real-world BIE workflows.
 
 ---
 
