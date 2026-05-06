@@ -124,8 +124,8 @@ if __name__ == "__main__":
     df = generate_tracks(n_per_genre=3000)
 
     os.makedirs("data", exist_ok=True)
-    df.to_csv("data/raw_tracks.csv", index=False)
+    df.to_csv("data/product_data.csv", index=False)
 
     print("\nSample data:")
     print(df.head(10))
-    print("\nSaved to data/raw_tracks.csv")  
+    print("\nSaved to data/product_data.csv")  
