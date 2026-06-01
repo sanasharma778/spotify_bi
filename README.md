@@ -49,9 +49,9 @@ Three interconnected datasets simulating a real streaming platform warehouse:
 
 | Table | Description | Rows |
 |---|---|---|
-| `dim_tracks` | Product catalogue — songs, artists, genres, popularity | 15,456 |
-| `dim_users` | Customer profiles — demographics, subscription, engagement | 2,000 |
-| `fact_events` | User activity log — every action in the funnel | 80,635 |
+| `dim_tracks` | Product catalogue : songs, artists, genres, popularity | 15,456 |
+| `dim_users` | Customer profiles : demographics, subscription, engagement | 2,000 |
+| `fact_events` | User activity log : every action in the funnel | 80,635 |
 
 > **Why simulated data?** Spotify restricted developer API access in 2024-2025. Data was generated using statistically realistic distributions modelled on Spotify's actual data structure — standard practice in BI engineering when raw data is restricted or unavailable.
 
