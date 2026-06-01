@@ -22,7 +22,7 @@ If you're a recruiter or fellow data scientist, feel free to explore the code, r
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Most streaming platforms lose users silently. They open the app, browse briefly, and disappear before ever converting to a paid subscriber. This project builds a full **Business Intelligence and Machine Learning pipeline** to understand exactly where and why users drop off, and predicts which users are most at risk of churning.
 
@@ -30,7 +30,7 @@ Building to replicate real-world data science workflows with messy data, ETL pip
 
 ---
 
-## 🎯 Business Questions Answered
+##  Business Questions Answered
 
 | Question | Method |
 |---|---|
@@ -43,7 +43,7 @@ Building to replicate real-world data science workflows with messy data, ETL pip
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 Three interconnected datasets simulating a real streaming platform warehouse:
 
@@ -65,7 +65,7 @@ Three interconnected datasets simulating a real streaming platform warehouse:
 
 ---
 
-## 🏗️ Pipeline Architecture
+##  Pipeline Architecture
 
 RAW DATA          TRANSFORM         WAREHOUSE          ANALYSE
 ─────────         ─────────         ─────────          ───────
@@ -77,7 +77,7 @@ PDF Report
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 spotify_bi/
 ├── etl/
@@ -117,7 +117,7 @@ spotify_bi/
 
 ---
 
-## 🔍 Key Findings — EDA
+##  Key Findings — EDA
 
 ### Tracks
 - **Pop dominates** — average popularity score 74.7, significantly ahead of electronic (54.3)
@@ -139,7 +139,7 @@ spotify_bi/
 
 ---
 
-## 🤖 ML Models (In Progress)
+##  ML Models (In Progress)
 
 | Model | Target | Algorithm | Status |
 |---|---|---|---|
@@ -149,7 +149,7 @@ spotify_bi/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -164,7 +164,7 @@ spotify_bi/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 **1. Clone the repository**
 ```bash
