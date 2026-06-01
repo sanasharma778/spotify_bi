@@ -24,9 +24,9 @@ If you're a recruiter or fellow data scientist, feel free to explore the code, r
 
 ## 📌 Project Overview
 
-Most streaming platforms lose users silently — they open the app, browse briefly, and disappear before ever converting to a paid subscriber. This project builds a full **Business Intelligence and Machine Learning pipeline** to understand exactly where and why users drop off, and predicts which users are most at risk of churning.
+Most streaming platforms lose users silently. They open the app, browse briefly, and disappear before ever converting to a paid subscriber. This project builds a full **Business Intelligence and Machine Learning pipeline** to understand exactly where and why users drop off, and predicts which users are most at risk of churning.
 
-Built to replicate real-world data science workflows — messy data, ETL pipelines, SQL warehousing, EDA, and predictive ML models — the kind of work done daily at companies like Spotify, Amazon, and Netflix.
+Building to replicate real-world data science workflows with messy data, ETL pipelines, SQL warehousing, EDA, and predictive ML models and the kind of work done daily at companies like Spotify, Amazon, and Netflix.
 
 ---
 
